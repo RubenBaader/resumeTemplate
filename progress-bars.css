@@ -1,0 +1,61 @@
+.progress-base {
+    align-self: center;
+    background-color: rgba(223, 223, 223, 0.863) !important;
+    width: 80%;
+    height: 12px;
+}
+
+.progress-ten {
+    align-self: left;
+    background-color: rgb(80, 79, 79) !important;
+    width: 10%;
+    height: 12px;
+}
+.progress-twenty {
+    align-self: left;
+    background-color: rgb(80, 79, 79) !important;
+    width: 20%;
+    height: 12px;
+}
+.progress-thirty {
+    align-self: left;
+    background-color: rgb(80, 79, 79) !important;
+    width: 30%;
+    height: 12px;
+}
+.progress-forty {
+    align-self: left;
+    background-color: rgb(80, 79, 79) !important;
+    width: 40%;
+    height: 12px;
+}
+.progress-fifty {
+    align-self: left;
+    background-color: rgb(80, 79, 79) !important;
+    width: 50%;
+    height: 12px;
+}
+.progress-sixty {
+    align-self: left;
+    background-color: rgb(80, 79, 79) !important;
+    width: 60%;
+    height: 12px;
+}
+.progress-seventyfive {
+    align-self: left;
+    background-color: rgb(80, 79, 79) !important;
+    width: 75%;
+    height: 12px;
+}
+.progress-eighty {
+    align-self: left;
+    background-color: rgb(80, 79, 79) !important;
+    width: 80%;
+    height: 12px;
+}
+.progress-ninetyfive {
+    align-self: left;
+    background-color: rgb(80, 79, 79) !important;
+    width: 95%;
+    height: 12px;
+}
